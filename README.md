@@ -20,13 +20,18 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Ionic, Angular, TypeScript, and Kotlin projects.**
-
+- 🔭 I’m currently working on **Ionic, Angular,C#, Pyhton,TypeScript,Kotlin projects.**
 - 🌱 I’m currently learning **to build scalable apps and improve my coding skills.**
 
-- 💬 Ask me about **Ionic, Angular, Kotlin, TypeScript, and Android development.**
+- 💬 Ask me about **Ionic, Angular, Kotlin, TypeScript,C#,Pyhton,Html, Css, JavaScript and Android development.**
 
-- 📫 Feel free to reach me out at **pablitocavaz04@gmail.com**
+- 📫 Feel free to reach me out at **pablocavaz@gmail.com**
+
+- 📋 Proyect
+ FullAll Brands:[ https://pablitocavaz04.github.io/FullAll_Brand/](https://pablitocavaz04.github.io/FullAll_Brand/)
+ Peaky Blinders WebSite: [ https://pablitocavaz04.github.io/Peaky_Blinders/](https://pablitocavaz04.github.io/Peaky_Blinders/)
+ Boston Web: [ https://pablitocavaz04.github.io/BostonCeltics_Web/](https://pablitocavaz04.github.io/BostonCeltics_Web/)
+
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [pablitocavaz04](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
