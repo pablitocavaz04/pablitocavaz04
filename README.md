@@ -28,9 +28,9 @@
 - 📫 Feel free to reach me out at **pablocavaz@gmail.com**
 
 - 📋 Proyect
- FullAll Brands:[ https://pablitocavaz04.github.io/FullAll_Brand/](https://pablitocavaz04.github.io/FullAll_Brand/)
- Peaky Blinders WebSite: [ https://pablitocavaz04.github.io/Peaky_Blinders/](https://pablitocavaz04.github.io/Peaky_Blinders/)
- Boston Web: [ https://pablitocavaz04.github.io/BostonCeltics_Web/](https://pablitocavaz04.github.io/BostonCeltics_Web/)
+- FullAll Brands:[ https://pablitocavaz04.github.io/FullAll_Brand/](https://pablitocavaz04.github.io/FullAll_Brand/)
+- Peaky Blinders WebSite: [ https://pablitocavaz04.github.io/Peaky_Blinders/](https://pablitocavaz04.github.io/Peaky_Blinders/)
+- Boston Web: [ https://pablitocavaz04.github.io/BostonCeltics_Web/](https://pablitocavaz04.github.io/BostonCeltics_Web/)
 
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [pablitocavaz04](https://discordapp.com/users/957722095381540874) my username!
